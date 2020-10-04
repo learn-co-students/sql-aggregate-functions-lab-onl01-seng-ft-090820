@@ -1,4 +1,5 @@
 require "spec_helper"
+#require_relative "../lib/students.rb"
 
 
 describe "aggregate functions sql" do
